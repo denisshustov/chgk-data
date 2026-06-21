@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "dbVersion": "2026.06.21.001",
+  "createdAt": "2026-06-21T19:25:17.3799352+00:00",
+  "minAppVersion": 1,
+  "files": [
+    {
+      "path": "updates/2026.06.21.001.jsonl.gz",
+      "type": "update",
+      "compression": "gzip",
+      "fromVersion": "",
+      "toVersion": "2026.06.21.001",
+      "sha256": "9713cb939f9ba36aad9ff1600c2fff2d34ac25292a2250659956acaa04da4e7a",
+      "size": 93890880
+    }
+  ]
+}
