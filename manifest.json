@@ -5,7 +5,7 @@
   "minAppVersion": 1,
   "files": [
     {
-      "path": "updates/2026.06.22.001.jsonl.gz",
+      "path": "https://github.com/denisshustov/chgk-data/releases/download/2026.06.22.001/2026.06.22.001.jsonl.gz",
       "type": "update",
       "compression": "gzip",
       "fromVersion": "",
