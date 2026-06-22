@@ -1,17 +1,26 @@
 {
   "schemaVersion": 1,
-  "dbVersion": "2026.06.22.001",
-  "createdAt": "2026-06-22T17:22:32.7215853+00:00",
+  "dbVersion": "2026.06.22.002",
+  "createdAt": "2026-06-22T18:11:56.1060233+00:00",
   "minAppVersion": 1,
   "files": [
     {
-      "path": "https://github.com/denisshustov/chgk-data/releases/download/2026.06.22.001/2026.06.22.001.jsonl.gz",
+      "path": "updates/2026.06.22.001.jsonl.gz",
       "type": "update",
       "compression": "gzip",
       "fromVersion": "",
       "toVersion": "2026.06.22.001",
       "sha256": "f374491fcfa2f03e35925659d537631636d34bfe8d8db79bc39ca938714ec12d",
       "size": 29940350
+    },
+    {
+      "path": "updates/2026.06.22.002.jsonl.gz",
+      "type": "update",
+      "compression": "gzip",
+      "fromVersion": "",
+      "toVersion": "2026.06.22.002",
+      "sha256": "479c2debbce112f12498c99814c9ef63755a14e93b40f8cd76d45018264ec840",
+      "size": 3153
     }
   ]
 }
